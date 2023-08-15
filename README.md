@@ -22,4 +22,4 @@ Although the portfolio is still in development, I'm always open to connecting an
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/abdelrahman-khatir-071737274/)
 - GitHub: [My GitHub Profile](https://github.com/abdelrahmank1868)
 
-Thank you for your interest in my portfolio. I look forward to sharing my journey and progress with you soon!
+Thanks for your interest in my portfolio. I look forward to sharing my journey and progress with you soon!
