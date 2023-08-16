@@ -1,6 +1,6 @@
 # My Portfolio (Under Development)
 
-Welcome to my portfolio! This is a work-in-progress website that will showcase my skills, projects, and experiences as a computer programmer. While the content is still being developed, you can expect to find information about my journey in coding, my projects, and my passion for technology.
+Welcome to my portfolio! This is a work-in-progress website that will showcase my skills, projects, and experiences as a computer programmer. While the content is still being developed, you can expect to find information about my journey in coding, my projects, and my passion for technology and innovation.
 
 ## About Me
 
