@@ -18,4 +18,4 @@ I'm always open to connecting and exploring new opportunities. Feel free to reac
 
 For a detailed overview of my projects and coding endeavors, please visit my [Portfolio](https://blizzardbyte.github.io/portfolio/). Here, you'll find in-depth information about my work, technical skills, and the impact I've made through my projects.
 
-Thank you for your interest in my portfolio. I look forward to sharing my journey and progress with you. Let's connect and explore the endless possibilities of technology together.
+Thank you for your interest in my portfolio. I look forward to sharing my journey and progress with you. Let's connect and explore the endless possibilities of technology together!
