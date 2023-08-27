@@ -1,8 +1,3 @@
-@font-face {
-  font-family: "Axeon";
-  src: url("../assets/fonts/AxeonRegular-vmyL4.otf") format("opentype");
-}
-
 /* styles.css */
 body {
   margin: 0;
@@ -121,7 +116,7 @@ body {
   background-color: #191d28;
   position: relative;
   overflow: hidden;
-  font-family: Axeon;
+  font-family: "Handjet", cursive;
   font-size: 30px;
 }
 
@@ -153,7 +148,7 @@ body {
   background-color: #191d28;
   position: relative;
   overflow: hidden;
-  font-family: Axeon;
+  font-family: "Handjet", cursive;
   font-size: 30px;
 }
 
@@ -244,7 +239,7 @@ body {
   background-color: #191d28;
   position: relative;
   overflow: hidden;
-  font-family: Axeon;
+  font-family: "Handjet", cursive;
   font-size: 30px;
 }
 
